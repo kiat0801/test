@@ -32,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609140603662</updated>
-      <workItem from="1609140605428" duration="298000" />
+      <workItem from="1609140605428" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="test change">
       <created>1609140681933</created>
@@ -41,7 +41,28 @@
       <option name="project" value="LOCAL" />
       <updated>1609140681933</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test change">
+      <created>1609140982634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609140982634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test change 2">
+      <created>1609141052069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609141052069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new commit">
+      <created>1609141223207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609141223207</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test change" />
-    <option name="LAST_COMMIT_MESSAGE" value="test change" />
+    <MESSAGE value="test change 2" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
 </project>
